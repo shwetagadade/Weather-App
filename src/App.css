@@ -1,0 +1,79 @@
+*{
+  padding: auto;
+margin: auto;   
+height: auto;
+width: auto;
+   
+  
+   
+ }
+ 
+ .container {
+   width: 500px;
+   height: 80vh;
+   border: 2px;
+   display: block;
+   border-radius: 2%;
+    text-align: center;
+   margin-top: 50px;
+   margin-bottom: 50px;
+    background: url('https://media.istockphoto.com/id/1341515382/photo/fog-in-black-smoke-and-mist-on-wooden-table-halloween-backdrop.jpg?s=612x612&w=0&k=20&c=Th9gc38WoIy_M7sg6qlv1WDjOY3fRdM57sE24MqGljk=');
+   background-repeat: repeat;
+   margin-top: 100px;
+  box-sizing: border-box;
+  border-color: #030704;
+  border: 10px;
+ }
+ 
+ input {
+   padding: 10px;
+   margin: 10px 0;
+   height: 70px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-style: oblique;
+   font-weight: bold;
+   box-shadow: #030704;
+   text-align: center;
+    margin-top: 100px;
+   width: 90%;
+   box-sizing: border-box;
+   background-color:rgb(183, 192, 205);
+   border: 100px;
+   border: #030704;
+ }
+ 
+ button {
+   background-color: #030704;
+   color: rgb(56, 11, 120);
+   padding: 10px 15px;
+   border: none;
+   cursor: pointer;
+   align-items: center;
+   justify-content: center;
+   margin-top: 50px;
+  
+  
+  
+ }
+ 
+ button:hover {
+  color: aliceblue;
+   background-color: rgb(31, 85, 143);
+ }
+ 
+ .p1 {
+   margin-top: 20px;
+   padding: 10px;
+   color: aliceblue;
+   align-items: center;
+     justify-content: center;
+   border: 1px solid #030101;
+   
+ 
+ }
+ h1{
+   margin-top: auto;
+   color: aliceblue;
+ }  
+ 
+ 
